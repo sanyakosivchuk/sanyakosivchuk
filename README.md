@@ -1,4 +1,4 @@
-  Stack: Ruby, Rails, MySql, Postgresql, ES, Searchkick, HTML, CSS, Git, Rspec, Linux⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+Ruby, Rails, MySql, Postgresql, ES, Searchkick, HTML, CSS, Git, Rspec, Linux⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
                                
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠒⢤⣄⡀⠀⠀⠀⠀⣠⡎⠀⣀⣴⠞⠁⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣤⣤⣤⣬⣿⣿⣶⣤⣰⣿⣧⣾⣿⣟⣤⣴⣖⣂⣀⣀⣀⣀⡠⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
